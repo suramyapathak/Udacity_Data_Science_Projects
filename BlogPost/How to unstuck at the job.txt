@@ -32,9 +32,7 @@ Any man of ordinary prudence would argue that higher education enhances skills a
 
 
 And lastly, what are the current trends of technologies and languages? 
-In recent years, new approaches, techniques and models have emerged in the field of language technology. Several factors have contributed to this progressive growth.
-
-The creation of large corpora and linguistic resources, the consolidation of statistical models based on different machine learning techniques or substantial improvements in the quality and robustness of speech recognition systems, dialogue management or automatic translation, among others, have made the field of language technology a promising area of research and an emerging industry.
+In the past few years, the emergence of new models, techniques and approaches contributed to progressive growth and robustness of the industries which made machine learning a promising area of research and an emerging industry in itself
 
 The images below show the graphical representation of technologies and (programming) languages people are working with and the ones people want to learn next year
  
