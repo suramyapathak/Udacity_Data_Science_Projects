@@ -1,5 +1,3 @@
-
-
 <a href="https://medium.com/@suramya.pathak/how-to-unstuck-at-the-job-ff9da36d510a"><img src="https://miro.medium.com/max/700/1*W3xeDnpQO4W8mnLDUosVdg.jpeg" How to unstuck at the job?How to unstuck at the job?
 
 # Data Scientist Nanodegree Program
