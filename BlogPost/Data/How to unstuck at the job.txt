@@ -1,0 +1,56 @@
+Link to blog post: 
+https://medium.com/@suramya.pathak/how-to-unstuck-at-the-job-ff9da36d510a 
+
+How to unstuck at the job?
+
+Daily we go to our workplaces, sometimes it’s fun, otherwise, it’s just mundane work. But often we feel like that growth is stuck at our job and we don’t see a way out. There can be myriad issues, personal, with colleagues, with board members, poor work-life balance, compensation, etc.
+Recently, I came across a survey data from Stack Overflow, a QnA website for professionals and enthusiast programmers. It displays a huge amount of data about various topics from the latest technology, compensation, and packages, qualifications, etc. which made me ponder upon certain subjects and it popped a few questions.
+ Is Job satisfaction depending upon the country?
+Does a higher degree lead to higher compensation?
+And lastly, what are the current trends in technology and languages? 
+Let’s start with job satisfaction. Employee job satisfaction is quite simply, how content an individual is with her job. Aspects that determine employee satisfaction include compensation, workload, perceptions of management, flexibility, teamwork, resources, etc. From the Stack Overflow job satisfaction survey, I took the data of the top 10 sampled countries provide an insight that the countries that top in the Very Satisfied category are in North America and Europe and at the same time, the countries which top Very Dissatisfied category are also in Europe. 
+
+ 
+The simplification of this data leads us to the following graphical representation.
+
+ 
+
+ 
+Geographical location is a key ingredient in the job satisfaction index. It may appear to one that programming is a universal language and everything depends upon work quality in the job. Better the work quality, higher the satisfaction. However, surroundings and work culture have many effects on the contentment part and in this space as well, these effects translate the same. Whether it be technological advancement, availability of work, compensation, camaraderie, each of such facet is majorly affected by geographical location and data suggest that developers working in the North American region i.e. USA and Canada find it easier to find a balance in these which explains the high job satisfaction index. But data from Europe tell another story, within a region, it is possible to find a stark difference in job satisfaction from country to country.   
+
+
+
+Now let’s move on to the second question: Does higher education lead to higher compensation?
+Any man of ordinary prudence would argue that higher education enhances skills and intelligence which in turn increases earning. But the study of the graph gives a conflicting picture. While the average compensation increases as we move towards a higher degree from secondary education level, but the group which receives the highest compensation in programming job are those who just completed their elementary education. It is although unsurprising because those who begin at the elementary level and get early success seldom continue the frequent course. However, it is worthwhile to notice that completion of a master’s degree may provide the climb that one may wish for. The significant rise in the average compensation from bachelor to master can provide a key to unstuck.  
+
+ 
+
+
+
+
+
+
+
+And lastly, what are the current trends of technologies and languages? 
+In recent years, new approaches, techniques and models have emerged in the field of language technology. Several factors have contributed to this progressive growth.
+
+The creation of large corpora and linguistic resources, the consolidation of statistical models based on different machine learning techniques or substantial improvements in the quality and robustness of speech recognition systems, dialogue management or automatic translation, among others, have made the field of language technology a promising area of research and an emerging industry.
+
+The images below show the graphical representation of technologies and (programming) languages people are working with and the ones people want to learn next year
+ 
+ 
+
+ 
+ 
+As it appears clearly from the present trend that Java Script is at the top of the chart in language that is in current use and Node.JS is the technology that is most frequently used. The status quo has been in existence for years, but with the rise of AI and machine learning, Python and Tensor Flow paved their way. In the desired language histogram, Python managed to beat the Java Script. However, this should not be taken as a downward slope for Java Script, but a surge in the field of machine learning which sparked a demand for the said language and technology. For someone who feels stuck in a job, things could be put in motion by learning them.  
+
+
+Conclusion:
+In this article, we took a look at how to unstuck at the job according to the 2020 Stack Overflow survey data
+
+1.	We look into how geographical area is related to job satisfaction and this shows that it has a major impact on job satisfaction.
+2.	We looked at how education level is associated with compensation paid to the individual. We found that who has higher formal education has more probability of getting higher compensation except for the people who are pioneers in the field with mere elementary education.
+3.	We gathered the response from the masses, but not only from the developer so that non-developers who have a vital stake in the process can have their say as well. We found out that the world is now looking towards machine learning as the next big thing which could also be the driving force for the upcoming educational programs. 
+
+The findings here are observational, not the result of a formal study. 
+
