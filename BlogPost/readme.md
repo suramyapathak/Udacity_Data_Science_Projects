@@ -1,5 +1,6 @@
-<a href="https://medium.com/@suramya.pathak/how-to-unstuck-at-the-job-ff9da36d510a"><img src="https://miro.medium.com/max/700/1*W3xeDnpQO4W8mnLDUosVdg.jpeg" How to unstuck at the job?How to unstuck at the job?
+<a href="https://medium.com/@suramya.pathak/how-to-unstuck-at-the-job-ff9da36d510a"><img src="https://miro.medium.com/max/700/1*W3xeDnpQO4W8mnLDUosVdg.jpeg" title="How to unstuck at the job?" alt="How to unstuck at the job?"></a>
 
+# <a href="https://medium.com/@suramya.pathak/how-to-unstuck-at-the-job-ff9da36d510a">How to unstuck at the job? -> A Data Science Blog Post
 # Data Scientist Nanodegree Program
 # Introduction to Data Science
 ## Project: Write A Data Science Blog Post
@@ -14,9 +15,9 @@ This project requires **Python 3.x** and the following Python libraries installe
 - matplotlib==3.3.1
 - seaborn==0.9.0
 
-You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
+Install [iPython Notebook](http://ipython.org/notebook.html)
 
-install [Anaconda](https://www.anaconda.com/products/individual), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
+Install [Anaconda](https://www.anaconda.com/products/individual), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
 
 ### Project Motivation
 
@@ -36,7 +37,8 @@ For the third section, to understand the industries' needs, we analyze the data 
 
 ### Licensing, Authors, Acknowledgements 
 
-- data was acquired from Stackoverflow https://insights.stackoverflow.com/survey/2020#experience
+- Data was acquired from Stackoverflow https://insights.stackoverflow.com/survey/2020#experience
 - This project is part of Data scientist Nanodegree Program from udacity 
+- The findings here are observational, not the result of a formal study.
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/). Please refer to [Udacity Terms of Service](https://www.udacity.com/legal) for further information.
+Header image is covered by the Creative Commons Zero license. The  license was released by the non-profit organization Creative Commons. You can get more information about Creative Commons and their license on the official license page.
