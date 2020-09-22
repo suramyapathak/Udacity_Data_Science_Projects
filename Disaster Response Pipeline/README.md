@@ -1,4 +1,3 @@
-<img src="https://live.staticflickr.com/5328/9554405492_b8f8e73fe6_b.jpg" title=""Forest fire" by Ervins Strauhmanis" alt="Disaster Response">
 <img src="https://live.staticflickr.com/5328/9554405492_b8f8e73fe6_b.jpg" alt="Disaster Response" />
 # Data Scientist Nanodegree Program
 #Data Engineering
