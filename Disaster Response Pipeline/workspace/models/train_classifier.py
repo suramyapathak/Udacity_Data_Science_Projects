@@ -67,7 +67,7 @@ def build_model():
     ('tfidf', TfidfTransformer()),
     ('clf', MultiOutputClassifier(RandomForestClassifier()))
     ])
-   
+    
     
     parameters = {    
     'vect__ngram_range': ((1, 1), (1, 2)),
