@@ -31,9 +31,11 @@ def load_data(database_filepath):
     '''
     engine = create_engine('sqlite:///' + database_filepath)
     df = pd.read_sql('SELECT * FROM RESPONSE',engine)
+    df.drop(df[df['related']==2].index, axis=0, inplace=True)
+    df['related'].value_counts()
     X=df["message"]
     y = df.iloc[:,4:]
-    y['related'].replace(2,1,inplace=True)
+    
     category_names = y.columns.tolist()
     return X, y, category_names
     
