@@ -6,6 +6,8 @@
 
 # Project: Disaster Response Pipeline
 
+### GitHub link: https://github.com/suramyapathak/Udacity_Data_Science_Projects/tree/master/Disaster%20Response%20Pipeline
+
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
