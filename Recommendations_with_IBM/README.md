@@ -6,7 +6,8 @@
 
 # Project: IBM recommendations 
 
-### GitHub link: https://github.com/suramyapathak/Udacity_Data_Science_Projects/tree/master/Recommendations_with_IBM
+### GitHub link: 
+https://github.com/suramyapathak/Udacity_Data_Science_Projects/tree/master/Recommendations_with_IBM
 
 ### Instructions:
 1. Run Recommendations_with_IBM.ipynb
