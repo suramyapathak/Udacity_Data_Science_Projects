@@ -17,8 +17,9 @@ https://github.com/suramyapathak/Udacity_Data_Science_Projects/tree/master/Recom
 
 This project requires **Python 3.x** and the following Python libraries installed:
 
-- pandas==0.25.1
+
 - numpy==1.18.1
+- pandas==0.25.1
 - matplotlib==3.3.1
 - seaborn==0.9.0
 

@@ -26,9 +26,10 @@
 
 This project requires **Python 3.x** and the following Python libraries installed:
 
-- scikit-learn==0.21.3
+
 - pandas==0.25.1
 - numpy==1.18.1
+- scikit-learn==0.21.3
 - matplotlib==3.3.1
 - seaborn==0.9.0
 - sqlalchemy==1.3.9
