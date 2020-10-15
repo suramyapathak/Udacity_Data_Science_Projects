@@ -1,8 +1,4 @@
-# Important UnderConstruction
-
-<img src="https://live.staticflickr.com/5240/7417287052_ca9e644931_b.jpg" alt="UnderConstruction" />
-
-# The project is underconstruction Please don't review 
+<img src="https://search.creativecommons.org/photos/e375321a-5da1-4a99-bc43-924e65bd1c8b" alt="Offers" />
 
 # Data Scientist Nanodegree Program
 
@@ -20,7 +16,10 @@ https://github.com/suramyapathak/Udacity_Data_Science_Projects/tree/master/Capst
 ### Installations
 
 This project requires **Python 3.x** and the following Python libraries installed:
-
+- pandas==0.25.1
+- numpy==1.18.1
+- matplotlib==3.3.1
+- seaborn==0.9.0
 
 
 Install [iPython Notebook](http://ipython.org/notebook.html)
@@ -29,13 +28,11 @@ Install [Anaconda](https://www.anaconda.com/products/individual), a pre-packaged
 
 ## Project Motivation
 
-As per Udacity Data Scientist Nanodegree project Starbucks Project, the project uses data from Starbucks app to classify and recommend promotional offers.
+As per Udacity Data Scientist Nanodegree project Starbucks Project, the project uses data from Starbucks app is a simulation of customer behaviour on the Starbucks rewards mobile app.
 
 ###Summary of the Project
 
-The project gives a opportunity to work on real world problem, a data set containing articles and user preferences of the article. The goal of the project is to use experiment design and use different recommendations method.
-
-
+The project gives a opportunity to work on real world problem, a data set containing articles and user preferences of the article. This project aims to yield an operational result through the conglomeration of the data set. The challenge is to arrive at a conclusive remark by examining data from diverse facets. Here, an enlarged number of offer engagement is the ultimate destination we hope to arrive at. Additionally, there is a demographic which will make a purchase irrespective of whether the offer is presented. I make an effort to pursue this data to minimize the loss due to uninvited offers. This study involves a three-part investigation design which will hopefully direct us towards favourable projections. 
 ### Licensing, Authors, Acknowledgements 
 
 - Data provided is as per Udacity Nanodegree program 
@@ -43,4 +40,4 @@ The project gives a opportunity to work on real world problem, a data set contai
 - The findings here are observational, not the result of a formal study.
 
 Header image is covered by the Creative Commons Zero license. The  license was released by the non-profit organization Creative Commons. You can get more information about Creative Commons and their license on the official license page.
-<p style="font-size: 0.9rem;font-style: italic;"><img style="display: block;" src=" " alt="Under Construction Grunge Sign">Free Grunge Textures - www.freestock.ca</a></span> is licensed under <a href="https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC BY 2.0</a><a href="https://creativecommons.org/licenses/by/2.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg?image_id=05a1390b-7da0-475f-a087-7ad0f18c93b3" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-by_icon.svg" /></a></p>
+"Discount offer - Bangalore-najeebkhan@hotmail.com" by najeebkhan2009 is licensed with CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/
