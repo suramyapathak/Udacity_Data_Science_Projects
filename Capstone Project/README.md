@@ -1,4 +1,4 @@
-<img src="https://search.creativecommons.org/photos/e375321a-5da1-4a99-bc43-924e65bd1c8b" alt="Offers" />
+<img src="https://live.staticflickr.com/2759/4285080931_929f15bae2_b.jpg" alt="Offers"/>
 
 # Data Scientist Nanodegree Program
 
