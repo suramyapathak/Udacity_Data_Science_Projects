@@ -9,6 +9,9 @@
 ### GitHub link: 
 https://github.com/suramyapathak/Udacity_Data_Science_Projects/tree/master/Capstone%20Project
 
+### Blogpost link:
+https://medium.com/@suramya.pathak/udacity-capstone-project-starbucks-dc988476d6ad
+
 ### Instructions:
 1. Run My_Starbucks_Capstone_notebook.ipynb
 
