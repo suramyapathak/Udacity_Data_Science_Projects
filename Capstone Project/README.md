@@ -23,6 +23,10 @@ This project requires **Python 3.x** and the following Python libraries installe
 - numpy==1.18.1
 - matplotlib==3.3.1
 - seaborn==0.9.0
+- itertools
+- sklearn
+- xgboost
+- time
 
 
 Install [iPython Notebook](http://ipython.org/notebook.html)
