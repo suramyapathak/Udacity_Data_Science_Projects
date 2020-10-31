@@ -4,7 +4,7 @@
 
 # Capstone Project
 
-# Project: Starbucks
+# Project: Starbucks    
 
 ### GitHub link: 
 https://github.com/suramyapathak/Udacity_Data_Science_Projects/tree/master/Capstone%20Project
@@ -35,7 +35,7 @@ Install [Anaconda](https://www.anaconda.com/products/individual), a pre-packaged
 
 ## Project Motivation
 
-As per Udacity Data Scientist Nanodegree project Starbucks Project, the project uses data from Starbucks app is a simulation of customer behaviour on the Starbucks rewards mobile app.
+As per Udacity Data Scientist Nanodegree project Starbucks Project, the project uses data from Starbucks app is a simulation of the customer behaviour on the Starbucks rewards mobile app.
 
 ###Summary of the Project
 
